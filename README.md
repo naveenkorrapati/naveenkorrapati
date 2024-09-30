@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @naveenkorrapati
-- 👀 I’m interested in learning on fire technologies
-- 🌱 I’m currently learning React js
-- 💞️ I’m looking to collaborate on React js and .Net projects
-- 📫 You can reach me at navin.korrapati@gmail.com
+- 👀 I’m interested in learning Data Analytics
+- 🌱 I’m currently pursuing masters in Data science at Rutgers University
+- 💞️ I’m looking to collaborate on Data Sceince/ Data Engineering Projects
+- 📫 You can reach me at navnxk@gmail.com
 
 <!---
 naveenkorrapati/naveenkorrapati is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
