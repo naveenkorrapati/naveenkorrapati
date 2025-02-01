@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @naveenkorrapati
-- 👀 I’m interested in learning Data Analytics
+- 👀 I’m interested in Data/ AI
 - 🌱 I’m currently pursuing masters in Data science at Rutgers University
 - 💞️ I’m looking to collaborate on Data Sceince/ Data Engineering Projects
 - 📫 You can reach me at navnxk@gmail.com
